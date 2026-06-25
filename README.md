@@ -1,88 +1,94 @@
 <h1 align="center">Hi 👋, I'm Saumya Dixit</h1>
 
-<h3 align="center">Aspiring Software Developer | Machine Learning Enthusiast | B.Tech Student</h3>
+<h3 align="center">Aspiring Software Developer | Machine Learning Enthusiast | Problem Solver</h3>
 
 ---
 
 ## 👩‍💻 About Me
 
-🎓 B.Tech Student passionate about Software Development, Machine Learning, and Problem Solving.
+I am a B.Tech student with a strong interest in Software Development, Machine Learning, and Data Analytics. I enjoy transforming ideas into practical solutions through technology and continuously expanding my technical expertise.
 
-💡 I enjoy building real-world projects, exploring data-driven solutions, and continuously improving my technical skills.
-
-🌱 Currently focusing on:
-- Data Structures & Algorithms
-- Java Development
-- Machine Learning
-- Database Management Systems
+My learning journey focuses on strengthening problem-solving abilities, mastering Data Structures & Algorithms, and developing real-world applications that create meaningful impact. I am passionate about exploring emerging technologies, building innovative projects, and growing as a future Software Engineer.
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Skills
 
-### Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+### 💻 Programming Languages
+C • C++ • Java • Python • SQL
 
-### Web Technologies
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+### 🌐 Web Technologies
+HTML5 • CSS3
 
-### Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+### 🤖 Data Science & Machine Learning
+Machine Learning • Exploratory Data Analysis (EDA) • Data Visualization • Data Preprocessing • Sentiment Analysis
+
+### 🗄️ Database
+MySQL • DBMS
+
+### ⚙️ Tools & Platforms
+VS Code • Jupyter Notebook • Git • GitHub • Streamlit • Anaconda • Microsoft Azure
+
+### 🧠 Core Concepts
+Data Structures & Algorithms • Object-Oriented Programming • Problem Solving
 
 ---
 
 ## 🚀 Featured Projects
 
 ### AI-Powered College Placement Intelligence System
-- Machine Learning based placement prediction system
-- Streamlit Web Application
-- Student placement probability analysis
-- Data preprocessing and visualization
+- Developed a Machine Learning-based system to predict placement probability.
+- Performed data preprocessing, analysis, and visualization.
+- Built an interactive Streamlit web application for prediction and insights.
+- Applied Machine Learning techniques to improve prediction accuracy.
 
 ### Titanic Dataset Exploratory Data Analysis
-- Performed data cleaning and exploratory analysis
-- Identified patterns affecting passenger survival
-- Generated insights using Python and visualization libraries
+- Conducted comprehensive exploratory data analysis on the Titanic dataset.
+- Performed data cleaning, feature analysis, and visualization.
+- Identified key factors influencing passenger survival.
 
 ### Sentiment Analysis Project
-- Analyzed textual data using Natural Language Processing
-- Classified sentiments into meaningful categories
-- Applied machine learning techniques for prediction
+- Built a sentiment analysis solution using Natural Language Processing techniques.
+- Classified textual data into sentiment categories.
+- Applied machine learning algorithms for sentiment prediction.
 
 ### Data Visualization Project
-- Created visual representations of datasets
-- Built charts and graphs for better data interpretation
-- Extracted actionable insights through visualization
+- Created meaningful visualizations to uncover hidden insights from data.
+- Utilized charts and graphs to support data-driven decision-making.
 
 ---
 
 ## 📚 Currently Learning
 
 - Data Structures & Algorithms
-- Object-Oriented Programming
+- Advanced Java
 - Machine Learning
-- SQL & Database Design
-- Technical Interview Preparation
+- SQL Optimization
+- Software Development Best Practices
 
 ---
 
 ## 🎯 Career Objective
 
-To build impactful software solutions, strengthen problem-solving skills, and grow as a Software Engineer in a challenging and innovative environment.
+To leverage my technical knowledge, analytical thinking, and problem-solving skills to contribute to innovative software solutions while continuously learning and growing in the field of technology.
+
+---
+
+## 📈 Areas of Interest
+
+- Software Development
+- Machine Learning
+- Artificial Intelligence
+- Data Analytics
+- Problem Solving
 
 ---
 
 ## 📫 Connect With Me
 
-- LinkedIn: Add Your LinkedIn URL
-- Email: Your Email Address
+- LinkedIn: https://www.linkedin.com/in/saumya-dixit-96b5852aa/
+- Email: dixitsaumya1762006@gmail.com
 
 ---
 
-⭐ Always learning, building, and exploring new technologies.
+⭐ Passionate about learning, building impactful projects, and exploring new technologies.
